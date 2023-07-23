@@ -21,3 +21,4 @@ Se divide en 4 archivos:
 * `config.py`: contiene una variable con el diccionario de las credenciales de acceso a la base de datos. Es recomendable no modificar el nombre de la base de datos, solo el usuario y contraseña.
 
 Finalmente, el proyecto contiene una carpeta `img` en donde se almacena el icono de la aplicación.
+<a href="https://www.flaticon.com/free-icons/to-do-list" title="to do list icons">To do list icons created by Graphics Plazza - Flaticon</a>
